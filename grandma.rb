@@ -1,5 +1,5 @@
 def speak_to_grandma(string)
-  # binding.pry
+
   if string == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
   elsif string == string.upcase
@@ -8,3 +8,4 @@ def speak_to_grandma(string)
     "HUH?! SPEAK UP, SONNY!"
   end
 end
+s
