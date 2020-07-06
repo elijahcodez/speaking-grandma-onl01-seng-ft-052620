@@ -8,4 +8,3 @@ def speak_to_grandma(string)
     "HUH?! SPEAK UP, SONNY!"
   end
 end
-s
